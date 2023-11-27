@@ -1,0 +1,425 @@
+.myprofilepageChild {
+  position: absolute;
+  top: 313px;
+  left: 215px;
+  background-color: #fbfbfb;
+  width: 243px;
+  height: 555px;
+  border-right: 1px solid rgb(209, 209, 209);
+}
+.userid2{
+  position: absolute;
+  top: 144px;
+  left: 1200px;
+  font-size: 14px;
+  color: #636363;
+}
+.nickname{
+  position: absolute;
+  top: 622px;
+  left: 501px;
+}
+.username{
+  position: absolute;
+  top: 688px;
+  left: 501px;
+}
+.b2,
+.div10,
+.div11,
+.div12,
+.div8,
+.div9 {
+  position: absolute;
+  top: 143px;
+  left: 277px;
+  font-size: var(--font-size-mini);
+  text-decoration: none;
+  color: black;
+}
+.b2,
+.div10,
+.div11,
+.div12,
+.div9 {
+  left: 393px;
+}
+.b2,
+.div10,
+.div11,
+.div12 {
+  left: 612px;
+}
+.b2,
+.div11,
+.div12 {
+  left: 721px;
+}
+.b2,
+.div12 {
+  left: 489px;
+}
+.b2 {
+  left: 188px;
+  color: var(--color-royalblue-200);
+}
+.myprofilepageItem {
+  position: absolute;
+  top: 175.8px;
+  left: -0.2px;
+  border-top: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 0.5px;
+}
+.b3,
+.mypage1 {
+  position: absolute;
+  text-decoration: none;
+}
+.b3 {
+  top: 80px;
+  left: 180px;
+  font-size: 24px;
+  display: inline-block;
+  width: 127px;
+  height: 42px;
+  text-decoration: none;
+  color: black;
+
+}
+
+.mypage1 {
+  top: 83px;
+  left: 280px;
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+  color:rgb(89, 89, 207);
+}
+.lineDiv,
+.myprofilepageInner {
+  position: absolute;
+  box-sizing: border-box;
+}
+.myprofilepageInner {
+  top: 175.5px;
+  left: 181.5px;
+  border-top: 5px solid var(--color-royalblue-200);
+  width: 69px;
+  height: 5px;
+}
+.lineDiv {
+  top: 312.5px;
+  left: 457.5px;
+  border-right: 1px solid var(--color-silver);
+  width: 100%;
+  height: 556px;
+}
+.div13,
+.div14 {
+  position: absolute;
+  left: 216px;
+}
+.div13 {
+  top: 213px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.div14 {
+  top: 241px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+}
+.myprofilepageChild1 {
+  position: absolute;
+  top: 312.5px;
+  left: 214.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 771px;
+  height: 1px;
+}
+.myprofilepageChild2,
+.myprofilepageChild3,
+.myprofilepageChild4,
+.myprofilepageChild5,
+.myprofilepageChild6,
+.myprofilepageChild7 {
+  position: absolute;
+  top: 522.5px;
+  left: 215.5px;
+  border-top: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 771px;
+  height: 1px;
+}
+.myprofilepageChild3,
+.myprofilepageChild4,
+.myprofilepageChild5,
+.myprofilepageChild6,
+.myprofilepageChild7 {
+  top: 595.5px;
+}
+.myprofilepageChild4,
+.myprofilepageChild5,
+.myprofilepageChild6,
+.myprofilepageChild7 {
+  top: 661.5px;
+}
+.myprofilepageChild5,
+.myprofilepageChild6,
+.myprofilepageChild7 {
+  top: 727.5px;
+}
+.myprofilepageChild6,
+.myprofilepageChild7 {
+  top: 799.5px;
+}
+.myprofilepageChild7 {
+  top: 867.5px;
+  left: 214.5px;
+}
+.div15,
+.div16,
+.div17,
+.div18,
+.div19,
+.div20 {
+  position: absolute;
+  top: 347px;
+  left: 246px;
+  display: inline-block;
+  width: 74px;
+  height: 15px;
+}
+.div16,
+.div17,
+.div18,
+.div19,
+.div20 {
+  top: 552px;
+  width: 98px;
+}
+.div17,
+.div18,
+.div19,
+.div20 {
+  top: 621px;
+  width: 42px;
+}
+.div18,
+.div19,
+.div20 {
+  top: 690px;
+  left: 247px;
+}
+.div19,
+.div20 {
+  top: 757px;
+  width: 90px;
+  height: 16px;
+}
+.div20 {
+  top: 827px;
+  left: 244px;
+  width: 123px;
+}
+.profilePhoto {
+  position: absolute;
+  top: 338px;
+  left: 494px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 0.3px solid #636363;
+  box-sizing: border-box;
+  width: 93px;
+  height: 92px;
+}
+
+.profilePhoto {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+#photoInput {
+  display: none;
+}
+
+.profileImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.div21 {
+  position: relative;
+  white-space: nowrap;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.container,
+.frameDiv,
+.myprofilepageChild8 {
+  position: absolute;
+  left: 498px;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.container
+{
+  position: absolute;
+  left: 498px;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+  border: 0.5px solid var(--color-gray-200);
+  cursor: pointer;
+}
+.container {
+  top: 450px;
+  width: 84px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.frameDiv,
+.myprofilepageChild8 {
+  top: 614px;
+  width: 205px;
+  height: 30px;
+}
+.myprofilepageChild8 {
+  top: 680px;
+  left: 499px;
+}
+.myprofilepageChild9 {
+  position: absolute;
+  top: 754px;
+  left: 498px;
+  width: 205px;
+  height: 30px;
+}
+
+.myprofilepageChild10,
+.myprofilepageChild9
+{
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.frame
+{
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  border: 0.5px solid var(--color-gray-200);
+  overflow: hidden;
+  cursor: pointer;
+}
+.wrapper1 {
+border: 0.5px solid var(--color-gray-200);
+background-color: var(--color-white);
+box-sizing: border-box;
+overflow: hidden;
+cursor: pointer;
+}
+.myprofilepageChild10 {
+  position: absolute;
+  top: 825px;
+  left: 499px;
+  width: 205px;
+  height: 30px;
+}
+.frame,
+.wrapper1 {
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.frame {
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  width: 84px;
+}
+.wrapper1 {
+  top: 892px;
+  left: 532px;
+  width: 62px;
+}
+.userid,
+.wrapper1,
+.wrapper2 {
+  position: absolute;
+}
+
+.wrapper2 {
+  top: 892px;
+  left: 607px;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 62px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+}
+.userid {
+  top: 552px;
+  left: 501px;
+}
+.myprofilepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.userid3 {
+  position: absolute;
+  top: 140px;
+  left: 1020px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+  width: 197px;
+  height: 45px;
+}
+
+.logout-button {
+  position: absolute;
+  top: 128px;
+  left: 1180px;
+  cursor: pointer;
+  background-color: #ffb6b1;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.4s;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}

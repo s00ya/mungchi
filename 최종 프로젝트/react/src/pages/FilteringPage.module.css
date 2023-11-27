@@ -1,0 +1,258 @@
+.myb5,
+.mydiv38 {
+  position: absolute;
+  top: 143px;
+  font-size: 15px;
+  color: black;
+}
+.myb5 {
+  left: 277px;
+  color: var(--color-royalblue-200);
+}
+.mydiv38 {
+  left: 393px;
+  font-size: 15px;
+  width: 80px;
+  color: black;
+}
+.mydiv39,
+.mydiv40,
+.mydiv41,
+.mydiv42 {
+  position: absolute;
+  top: 143px;
+  left: 612px;
+  color: black;
+}
+.mydiv40,
+.mydiv41,
+.mydiv42 {
+  left: 721px;
+  color: black;
+}
+.mydiv41,
+.mydiv42 {
+  left: 489px;
+  color: black;
+}
+.mydiv42 {
+  left: 188px;
+  color: black;
+
+}
+.myfilteringpageChild {
+  position: absolute;
+  top: 175.8px;
+  left: -0.2px;
+  border-top: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 0.5px;
+}
+.myb6,
+.mymypage1 {
+  position: absolute;
+  text-decoration: none;
+}
+.myb6 {
+  top: 80px;
+  left: 180px;
+  font-size: 24px;
+  display: inline-block;
+  width: 127px;
+  height: 42px;
+  text-decoration: none;
+  color: black;
+
+}
+.mymypage1 {
+  top: 83px;
+  left: 280px;
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+  color:rgb(89, 89, 207);
+}
+.myfilteringpageItem {
+  position: absolute;
+  top: 175.5px;
+  left: 277.5px;
+  border-top: 5px solid var(--color-royalblue-200);
+  box-sizing: border-box;
+  width: 90px;
+  height: 5px;
+}
+.userid2{
+  position: absolute;
+  top: 144px;
+  left: 1200px;
+  font-size: 14px;
+  color: #636363;
+}
+.mydiv43,
+.mydiv44 {
+  position: absolute;
+  left: 216px;
+}
+.mydiv43 {
+  top: 213px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.mydiv44 {
+  top: 241px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+}
+.mydiv45 {
+  position: relative;
+  color: #000000;
+  z-index: 1;
+}
+.mycontainer {
+  position: absolute;
+  top: 821px;
+  left: 300px;
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 62px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+  font-size: var(--font-size-xs);
+  text-decoration: none;
+  margin-left: 75px;
+  color: #000000;
+}
+.mycontainer .mybutton {
+  text-decoration: none;
+}
+.mycontainer,
+.myfilteringpage,
+.myframe {
+  background-color: var(--color-white);
+  overflow: hidden;
+  color: #000000;
+  text-decoration: none;
+}
+.myframe {
+  position: relative;
+  left: 790px;
+  top: 8000px;
+  text-align: center;
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 62px;
+  height: 33px;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+  font-size: var(--font-size-xs);
+  white-space: nowrap;
+  text-decoration: none;
+}
+.myfilteringpage {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+
+
+.myexerciseSelection {
+  width: 35%;
+  margin-top: 250px;
+  margin-left: 210px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.my1);
+}
+
+.myfilterOption {
+  margin: 10px 0;
+  left: 500px;
+  font-size: 13px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.myfilterOption-check {
+  margin-left: 695px;
+  margin-top: 20px;
+}
+.mycontainer {
+  position: relative;
+  left: 630px;
+  top: 613px;
+  text-align: center;
+  white-space: nowrap;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+.mybutton {
+  position: relative;
+  left: 723px;
+  top: 613px;
+  color: #000000;
+  padding: 10px 10px;
+  cursor: pointer;
+  border-radius: 2px;
+  font-size: 11px;
+  width: 60px;
+  white-space: nowrap;
+  background-color: #ffffff;
+  text-decoration: none;
+  border: 1px solid #b4b4b4 ;
+  text-align: center;
+}
+.userid3 {
+  position: absolute;
+  top: 140px;
+  left: 1020px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+  width: 197px;
+  height: 45px;
+}
+
+.logout-button {
+  position: absolute;
+  top: 128px;
+  left: 1180px;
+  cursor: pointer;
+  background-color: #ffb6b1;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.4s;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}

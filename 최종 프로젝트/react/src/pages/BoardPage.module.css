@@ -1,0 +1,68 @@
+/* src/BoardPageStyles.css */
+
+/* 수정된 스타일 */
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    margin-top: -100px;
+    white-space: nowrap;
+    margin-bottom: 100px;
+  }
+
+  h1 {
+    margin-top: 200px;
+  }
+
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: royalblue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+  }
+
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+
+  .post-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 60px; /* 페이지를 아래로 내림 */
+    margin-left: 80px;
+  }
+
+  /* 게시물 제목을 왼쪽 정렬하고 타이틀 아래에만 외곽선 추가합니다. */
+  .post-table th:first-child,
+  .post-table td:first-child {
+    text-align: left;
+    padding-left: 20px;
+    border-bottom: 1px solid #ddd; /* 타이틀 아래 외곽선 추가 */
+  }
+
+  /* 작성자와 날짜를 가운데 정렬하고 타이틀 아래에만 외곽선 추가합니다. */
+  .post-table th:nth-child(2),
+  .post-table td:nth-child(2),
+  .post-table th:nth-child(3),
+  .post-table td:nth-child(3) {
+    text-align: center;
+    padding: 10px 5px; /* 작성자와 날짜 간격 줄이기 */
+    border-bottom: 1px solid #ddd; /* 타이틀 아래 외곽선 추가 */
+  }
+
+  .post-table th {
+    padding-right: 60rem; /* 게시글 제목 간격 늘리기 */
+  }
+
+  .post-table tbody tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+
+  .post-table tbody tr:hover {
+    background-color: #ddd;
+  }

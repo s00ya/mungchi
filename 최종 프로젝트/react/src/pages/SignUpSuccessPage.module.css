@@ -1,0 +1,68 @@
+.div8 {
+  position: absolute;
+  top: 394px;
+  left: 524px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.05em;
+}
+.p {
+  margin: 0;
+}
+.user1-container {
+  position: absolute;
+  top: 467px;
+  left: 597px;
+  letter-spacing: -0.05em;
+  color: var(--color-darkslategray);
+  text-align: center;
+}
+.signupsuccesspageChild {
+  position: absolute;
+  top: 536px;
+  left: 581px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-100);
+  width: 361px;
+  height: 59px;
+}
+.signupsuccesspageChild2 {
+  position: absolute;
+  top: 620px;
+  left: 581px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-100);
+  width: 361px;
+  height: 59px;
+}
+.div9 {
+  position: absolute;
+  top: 554px;
+  left: 710px;
+  letter-spacing: -0.1em;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 199px;
+  height: 23px;
+}
+.div10 {
+  position: absolute;
+  top: 638px;
+  left: 717px;
+  letter-spacing: -0.1em;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 199px;
+  height: 23px;
+}
+.signupsuccesspage {
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,271 @@
+.div55,
+.div56 {
+  position: absolute;
+  letter-spacing: -0.05em;
+}
+.div55 {
+  top: 160px;
+  left: 650px;
+  font-size: 30px;
+  color: var(--color-black);
+}
+.div56 {
+  top: 230px;
+  left: 557px;
+  color: var(--color-darkslategray);
+}
+.group-child {
+  position: absolute;
+  top: 5;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-200);
+  width: 80px;
+  height: 41px;
+
+}
+
+.div57 {
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  left: 14px;
+  letter-spacing: -0.1em;
+  color: white;
+  font-size: 15px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 492px;
+  left: 790px;
+  width: 84px;
+  height: 40px;
+  color: var(--color-white);
+  z-index: 1;
+}
+.genderRadioGroup {
+  position: absolute;
+  top: 370px;
+  left: 752px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  z-index: 1;
+  font-size: 15px;
+}
+
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 8.8px;
+  left: 222.8px;
+  border-top: 0.5px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 133.5px;
+  height: 0.5px;
+}
+.group-inner {
+  left: -0.2px;
+  width: 122.5px;
+}
+.div58,
+.line-parent {
+  position: absolute;
+  height: 22px;
+}
+.div58 {
+  top: 0;
+  left: 145px;
+  letter-spacing: -0.1em;
+  display: inline-block;
+  width: 78px;
+}
+.line-parent {
+  top: 821px;
+  left: 543px;
+  width: 356px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-100);
+}
+.kakao-login-1-icon1 {
+  position: absolute;
+  top: 865px;
+  left: 626px;
+  width: 183px;
+  height: 45px;
+  object-fit: cover;
+}
+.group-child1 {
+  position: absolute;
+  top: -45px;
+  left:-119px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-100);
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  padding: 20px 0px;
+}
+.div59 {
+  position: absolute;
+  top: 22px;
+  left: 120px;
+  letter-spacing: -0.1em;
+  font-weight: 600;
+  display: inline-block;
+  width: 93px;
+  height: 23px;
+  color: rgb(255, 255, 255);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.rectangle-group {
+  position: absolute;
+  top: 724px;
+  left: 568px;
+  width: 361px;
+  height: 59px;
+  color: var(--color-white);
+}
+.group-child2 {
+    position: absolute;
+    top: 350px;
+    left: 538px;
+    width: 361px;
+    height: 43px;
+}
+.div60 {
+  position: absolute;
+  top: -50px;
+  left: 33px;
+  letter-spacing: -0.1em;
+  width: 290px;
+  height: 33px;
+
+}
+.div61 {
+  position: absolute;
+  top: 360px;
+  left: 572px;
+  letter-spacing: -0.1em;
+  width: 150px;
+  height: 33px;
+  z-index: 1;
+
+}
+.div45{
+  position: absolute;
+  top: 90px;
+  left: 642px;
+  font-size: 35px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+}
+.div100 {
+  position: absolute;
+  top: 8px;
+  left: 33px;
+  letter-spacing: -0.1em;
+  width: 290px;
+  height: 33px;
+
+}
+.div62,
+.group-div,
+.rectangle-container {
+  position: absolute;
+  top: 350px;
+  left: 538px;
+  width: 361px;
+  height: 43px;
+}
+.div62,
+.group-div {
+  top: 280px;
+}
+.div62 {
+  top: 4px;
+  left: 33px;
+  letter-spacing: -0.1em;
+  width: 200px;
+  height: 33px;
+}
+.group-child5,
+.rectangle-parent1 {
+  position: absolute;
+  top: 420px;
+  left: 538px;
+  width: 361px;
+  height: 43px;
+}
+.group-child5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  width: 271px;
+}
+.div63 {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  letter-spacing: -0.1em;
+  display: inline-block;
+  width: 50px;
+  height: 22px;
+}
+.div64,
+.rectangle-parent2 {
+  position: absolute;
+  top: 490px;
+  left: 538px;
+  width: 271px;
+  height: 43px;
+}
+.div64 {
+  top: 10px;
+  left: 33px;
+  letter-spacing: -0.1em;
+  display: inline-block;
+  width: 290px;
+  height: 33px;
+}
+.div65,
+.rectangle-parent3 {
+  position: absolute;
+  top: 555px;
+  left: 538px;
+  width: 361px;
+  height: 43px;
+}
+.div65 {
+  top: 10px;
+  left: 13px;
+  letter-spacing: -0.1em;
+  display: inline-block;
+  width: 122px;
+  height: 22px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 620px;
+  left: 538px;
+  width: 361px;
+  height: 43px;
+}
+.signuppage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-inter);
+}

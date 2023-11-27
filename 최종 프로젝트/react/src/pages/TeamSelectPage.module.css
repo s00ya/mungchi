@@ -1,0 +1,382 @@
+.div,
+.div1 {
+  position: absolute;
+  top: 29px;
+  left: 158px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  color: var(--color-royalblue-200);
+}
+.div1 {
+  top: 35px;
+  left: 280px;
+  font-size: 15px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+}
+.teamselectpage-child {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 100%;
+  height: 382px;
+  object-fit: cover;
+}
+.p {
+  margin: 0;
+}
+.div2,
+.teamselectpage-item {
+  position: absolute;
+  left: 158px;
+}
+.div2 {
+  top: 181px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: -0.03em;
+  line-height: 40px;
+  font-weight: 800;
+  color: var(--color-white);
+}
+.teamselectpage-item {
+  top: 141px;
+  border-radius: var(--br-8xs);
+  width: 192px;
+  height: 25px;
+}
+.b,
+.div3 {
+  position: absolute;
+  font-size: 14px;
+}
+.b {
+  top: 145px;
+  left: 165px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  width: 181px;
+}
+.div3 {
+  top: 276px;
+  left: 158px;
+  letter-spacing: -0.1em;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.teamselectpage-inner {
+  position: absolute;
+  top: 845px;
+  left: 0;
+  width: 1440px;
+  height: 568px;
+}
+.div4 {
+  position: absolute;
+  top: 928px;
+  left: 160px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: -0.03em;
+  line-height: 40px;
+  font-weight: 800;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1009px;
+  left: 934px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: -1px 1px 7px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gainsboro-400);
+  box-sizing: border-box;
+  width: 346px;
+  height: 283px;
+}
+.div5 {
+  position: absolute;
+  top: 1079px;
+  left: 981px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.03em;
+  line-height: 25px;
+  font-weight: 600;
+  display: inline-block;
+  width: 213px;
+  height: 33px;
+}
+.div6,
+.teamselectpage-child1 {
+  position: absolute;
+  left: 981px;
+  width: 241px;
+}
+.div6 {
+  top: 1132px;
+  letter-spacing: -0.03em;
+  line-height: 25px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  height: 74px;
+}
+.teamselectpage-child1 {
+  top: 1201px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  box-shadow: -1px 1px 7px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-royalblue-100);
+  box-sizing: border-box;
+  height: 42px;
+}
+.div7 {
+  position: absolute;
+  top: 1210px;
+  left: 1031px;
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.05em;
+  line-height: 25px;
+  font-weight: 600;
+  color: var(--color-royalblue-200);
+}
+.teamselectpage-child2 {
+  position: absolute;
+  top: 1009px;
+  left: 160px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: -1px 1px 7px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gainsboro-400);
+  box-sizing: border-box;
+  width: 346px;
+  height: 283px;
+}
+.div8,
+.div9 {
+  position: absolute;
+  left: 208px;
+  letter-spacing: -0.03em;
+  line-height: 25px;
+  display: inline-block;
+}
+.div8 {
+  top: 1083px;
+  font-size: var(--font-size-3xl);
+  font-weight: 600;
+  width: 213px;
+  height: 33px;
+}
+.div9 {
+  top: 1144px;
+  color: var(--color-dimgray-100);
+  width: 241px;
+  height: 74px;
+}
+.teamselectpage-child3 {
+  position: absolute;
+  top: 1009px;
+  left: 547px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: -1px 1px 7px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--color-gainsboro-400);
+  box-sizing: border-box;
+  width: 346px;
+  height: 283px;
+}
+.div10 {
+  top: 1083px;
+  left: 594px;
+  font-size: var(--font-size-3xl);
+  line-height: 25px;
+  font-weight: 600;
+  display: inline-block;
+  width: 213px;
+  height: 33px;
+}
+.div10,
+.div11,
+.div12,
+.userid {
+  position: absolute;
+  letter-spacing: -0.03em;
+}
+.div11 {
+  top: 1139px;
+  left: 593px;
+  line-height: 25px;
+  color: var(--color-dimgray-100);
+  display: inline-block;
+  width: 241px;
+  height: 74px;
+}
+.div12,
+.userid {
+  top: 412px;
+  left: 1185px;
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.userid {
+  top: 35px;
+  left: 1147px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+  display: inline-block;
+  width: 197px;
+  height: 45px;
+}
+.teamselectpage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1413px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+/* 인원 선택 컨테이너 스타일 */
+.teamSelectContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 530px;
+  margin-right: 1100px;
+}
+
+.teamSelectContainer label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.teamSelectContainer button {
+  width: 30px;
+  height: 30px;
+  background-color: #4074ac;
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  font-size: 18px;
+  margin: 0 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.teamSelectContainer span {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 10px;
+
+}
+
+/* 운동 종목 선택 컨테이너 스타일 */
+.exerciseSelectContainer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 500px;
+  margin-top: 50px;
+}
+
+.exerciseSelectContainer label {
+  font-weight: bold;
+  margin-right: 410px;
+  font-size: 18px;
+}
+
+.exerciseSelectContainer select {
+  width: 150px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-right: 510px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+
+}
+
+.div143 {
+  position: absolute;
+  top: 35px;
+  left: 375px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+.div144 {
+  position: absolute;
+  top: 35px;
+  left: 445px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+/* 확인 버튼 스타일 */
+.confirmButton {
+  background-color: #6785fc;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 13px;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-left: 284px;
+  width: 55px;
+  height: 30px;
+}
+.confirmButton.disabled {
+  display: none;
+  background-color: #ffffff;
+  cursor: not-allowed;
+}
+.labelStyle {
+  position: relative;
+  left: -400px;
+  top: 500px;
+  font-size: 18px; /* 원하는 글꼴 크기로 조정하세요 */
+  font-weight: bold; /* 글꼴 두껍게 표시 */
+  margin: 0 auto; /* 좌우 여백을 자동으로 조정해서 가운데 정렬합니다 */
+
+  text-align: center; /* 텍스트를 중앙 정렬합니다 */
+  display: block; /* 블록 요소로 설정하여 가운데 정렬이 올바르게 작동합니다 */
+  /* 원하는 스타일 추가 가능 */
+}
+
+.userid3 {
+  position: absolute;
+  top: 35px;
+  left: 1020px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+  width: 197px;
+  height: 45px;
+}
+
+.logout-button {
+  position: absolute;
+  top: 24px;
+  left: 1180px;
+  cursor: pointer;
+  background-color: #ffb6b1;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.4s;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}

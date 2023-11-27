@@ -1,0 +1,384 @@
+.div65,
+.div66 {
+  position: absolute;
+}
+
+.div65 {
+  top: 29px;
+  left: 158px;
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  color: var(--color-royalblue-200);
+}
+
+.div66 {
+  top: 35px;
+  left: 280px;
+  font-size: 15px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: rgb(50, 50, 50);
+}
+
+.rectangle-icon {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 100%;
+  height: 382px;
+  object-fit: cover;
+}
+.div143 {
+  position: absolute;
+  top: 35px;
+  left: 375px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+.div144 {
+  position: absolute;
+  top: 35px;
+  left: 445px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+.p4 {
+  margin: 0;
+}
+
+.div67 {
+  position: absolute;
+  top: 181px;
+  left: 158px;
+  letter-spacing: -0.03em;
+  line-height: 40px;
+  font-weight: 800;
+  color: var(--color-white);
+}
+
+.matchingresultpage-child19 {
+  position: absolute;
+  top: 141px;
+  left: 158px;
+  border-radius: var(--br-8xs);
+  width: 192px;
+  height: 25px;
+}
+
+
+
+.user-profiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+  max-height: 1000px; /* 필요한 높이 설정 (높이가 넘치면 스크롤바 표시) */
+  margin-top: 650px;
+}
+
+.profile-slot {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin-left: 175px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+
+  width: 1000px; /* 최소 너비 설정 */
+  margin-right: 20px; /* 각 프로필 간 간격 설정 */
+  margin-bottom: 20px; /* 각 프로필 사이 간격 설정 */
+  font-size: 10px;
+}
+
+.profile-slot .user-profile {
+  border: 2px solid #ddd;
+
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  align-items: center;
+  width: 140px; /* 너비를 조정하여 가로 길이를 설정 */
+  height: 250px;
+
+  /* 각 프로필 사이 간격 설정 */
+  margin-left: 0;
+}
+
+.b8,
+.div68,
+.div69 {
+  position: absolute;
+  font-size: 14px;
+}
+
+.b8 {
+  top: 145px;
+  left: 165px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  color: var(--color-black);
+  width: 181px;
+}
+
+.div68,
+.div69 {
+  top: 276px;
+  left: 158px;
+  letter-spacing: -0.1em;
+  font-weight: 500;
+  color: var(--color-white);
+}
+
+.div69 {
+  top: 412px;
+  left: 1185px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.03em;
+  color: var(--color-darkgray-200);
+}
+
+.div70,
+.div71,
+.userid2 {
+  position: absolute;
+  display: inline-block;
+  color: #000000;
+}
+
+.userid2 {
+  top: 35px;
+  left: 1147px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  width: 197px;
+  height: 45px;
+}
+
+.div70,
+.div71
+ {
+  left: 163px;
+}
+
+.div100
+{
+  position: relative;
+  left: 500px;
+  top: 526px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  width: 101px;
+  height: 31px;
+}
+
+.div70 {
+  top: 526px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  width: 101px;
+  height: 31px;
+}
+
+.div71 {
+  top: 563px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+  width: 340px;
+  height: 21px;
+}
+
+.matchingresultpage1 {
+  position: relative;
+  height: auto; /* 높이를 자동으로 조절하도록 설정 */
+  background-color: var(--color-white);
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-inter);
+  }
+
+.user-profile {
+  display: flex;
+  /* flex-direction을 column으로 변경하여 요소를 세로로 배치합니다. */
+  flex-direction: column;
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  width: 250px;
+  height: auto; /* 높이를 자동으로 조절하도록 설정 */
+
+  font-size: 10px;
+}
+
+/* User profile image */
+.profile-image {
+  width: 50px; /* 이미지 너비 조절 */
+  height: 50px; /* 이미지 높이 조절 */
+  object-fit: cover;
+  border-radius: 50%;
+
+}
+
+
+
+/* User info container */
+.user-info {
+  flex: 1;
+  white-space: nowrap;
+}
+
+/* User nickname */
+.user-nickname {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 25px;
+
+  text-align: center;
+  white-space: nowrap;
+
+}
+.user-gender{
+  font-size: 10px;
+  white-space: nowrap;
+
+}
+
+/* Other user info */
+.user-info p {
+  font-size: 15px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+/* Additional user info */
+.user-info p.additional-info {
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+
+
+.chat-button {
+  position: relative; /* 위치 조정을 위해 상대 위치를 사용합니다. */
+  left: 980px; /* 원하는 left 값으로 조정하세요 */
+  top: 631px; /* 원하는 top 값으로 조정하세요 */
+  padding: 5px 5px;
+  background-color: #5b6dfa;
+  color: #ffffff;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 13px;
+  text-align: center;
+  cursor: pointer;
+  width: 110px;
+  height: 33px;
+}
+.user-details {
+  display: flex;
+  flex-direction: row;
+}
+
+.user-details p {
+  margin-right: 20px; /* 각 항목 사이의 간격 조정 */
+  margin-top: 40px;
+}
+
+.seperate {
+  margin: 0;
+  color: rgb(212, 212, 212);
+  font-size: 5px;
+}
+
+.home-button{
+  position: relative; /* 위치 조정을 위해 상대 위치를 사용합니다. */
+  left: 980px; /* 원하는 left 값으로 조정하세요 */
+  top: 631px; /* 원하는 top 값으로 조정하세요 */
+  padding: 7px 7px;
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid grey;
+  border-radius: 10px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 13px;
+}
+
+.user-details strong {
+  margin-right: 5px; /* 원하는 마진 값으로 수정하세요 */
+}
+
+.div80 {
+  font-size: 16px; /* 원하는 폰트 크기 설정 */
+  font-weight: 600; /* 폰트 굵기 설정 */
+  color: var(--color-black); /* 원하는 글자 색상 설정 */
+  margin-top: 10px; /* 위쪽 여백 설정 */
+}
+
+/* 매칭된 사용자 수 스타일링 */
+.div81 {
+  position: relative;
+  left: 180px;
+  top: 650px;
+  font-size: 14px; /* 원하는 폰트 크기 설정 */
+  color: var(--color-dimgray-200); /* 원하는 글자 색상 설정 */
+  font-weight: 600;
+}
+
+.user-profiles {
+  overflow: hidden; /* 스크롤 제거 */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+}
+
+.userid3 {
+  position: absolute;
+  top: 35px;
+  left: 1020px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+  width: 197px;
+  height: 45px;
+}
+
+.logout-button {
+  position: absolute;
+  top: 24px;
+  left: 1180px;
+  cursor: pointer;
+  background-color: #ffb6b1;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.4s;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}

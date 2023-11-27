@@ -1,0 +1,998 @@
+.b,
+.div {
+  position: absolute;
+  top: 143px;
+  left: 277px;
+  color: black;
+}
+.b {
+  left: 393px;
+  color: var(--color-royalblue-200);
+}
+.div1{
+  position: absolute;
+  top: 143px;
+  left: 590px;
+}
+.matchinglist-title{
+  position: relative;
+  left: 220px;
+  top: 330px;
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+  padding: 5px 5px;
+  font-weight: 100px;
+  margin-bottom: 20px;
+}
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 143px;
+  left: 612px;
+  color: black;
+}
+.div2,
+.div3,
+.div4 {
+  left: 721px;
+}
+.div3,
+.div4 {
+  left: 489px;
+}
+.div4 {
+  left: 188px;
+}
+.matchinglistpage-child {
+  position: absolute;
+  top: 175.8px;
+  left: -0.2px;
+  border-top: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 0.5px;
+}
+.b1,
+.mypage {
+  position: absolute;
+  text-decoration: none;
+}
+.b1 {
+  top: 80px;
+  left: 180px;
+  font-size: 24px;
+  display: inline-block;
+  width: 127px;
+  height: 42px;
+  text-decoration: none;
+  color: black;
+
+}
+.mypage {
+  top: 83px;
+  left: 280px;
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+  color:rgb(89, 89, 207);
+}
+.matchinglistpage-item {
+  position: absolute;
+  top: 175.5px;
+  left: 386.5px;
+  border-top: 5px solid var(--color-royalblue-200);
+  box-sizing: border-box;
+  width: 69px;
+  height: 5px;
+}
+.div5,
+.div6 {
+  position: absolute;
+  left: 216px;
+}
+.div5 {
+  top: 213px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.div6 {
+  top: 241px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+}
+.matchinglistpage-child1,
+.matchinglistpage-child2,
+.matchinglistpage-child3,
+.matchinglistpage-inner,
+.rectangle-div {
+  position: absolute;
+  top: 357px;
+  left: 214px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-300);
+  box-sizing: border-box;
+  width: 819px;
+  height: 78px;
+}
+.matchinglistpage-child1,
+.matchinglistpage-child2,
+.matchinglistpage-child3,
+.rectangle-div {
+  top: 543px;
+}
+.matchinglistpage-child1,
+.matchinglistpage-child2,
+.matchinglistpage-child3 {
+  top: 450px;
+}
+.matchinglistpage-child2,
+.matchinglistpage-child3 {
+  top: 636px;
+}
+.matchinglistpage-child3 {
+  top: 729px;
+}
+.ellipse-div,
+.matchinglistpage-child4,
+.matchinglistpage-child5,
+.matchinglistpage-child6,
+.matchinglistpage-child7 {
+  position: absolute;
+  top: 366px;
+  left: 228px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 59px;
+  height: 59px;
+}
+.matchinglistpage-child4,
+.matchinglistpage-child5,
+.matchinglistpage-child6,
+.matchinglistpage-child7 {
+  top: 552px;
+}
+.matchinglistpage-child5,
+.matchinglistpage-child6,
+.matchinglistpage-child7 {
+  top: 459px;
+}
+.matchinglistpage-child6,
+.matchinglistpage-child7 {
+  top: 645px;
+}
+.matchinglistpage-child7 {
+  top: 738px;
+}
+.div7 {
+  position: relative;
+}
+.wrapper {
+  position: absolute;
+  top: 300px;
+  left: 964px;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 62px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xs) var(--padding-xl);
+  font-size: var(--font-size-xs);
+  white-space: nowrap;
+}
+.matchinglistpage-child8,
+.polygon-icon {
+  position: absolute;
+  top: 390px;
+  left: 988px;
+  width: 19px;
+  height: 17px;
+}
+.polygon-icon.vertical-flip {
+  transform: scaleY(-1);
+}
+.matchinglistpage-child8 {
+  top: 484.3px;
+  left: 989.3px;
+}
+.matchinglistpage-child10,
+.matchinglistpage-child11,
+.matchinglistpage-child9 {
+  position: absolute;
+  top: 577.3px;
+  left: 989.3px;
+  width: 19px;
+  height: 17px;
+}
+.matchinglistpage-child10,
+.matchinglistpage-child11 {
+  top: 670.3px;
+}
+.matchinglistpage-child11 {
+  top: 764.3px;
+}
+.matchinglistpage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.div65,
+.div66 {
+  position: absolute;
+}
+.div143 {
+  position: absolute;
+  top: 35px;
+  left: 375px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+.div144 {
+  position: absolute;
+  top: 35px;
+  left: 445px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+
+.div65 {
+  top: 29px;
+  left: 158px;
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  color: var(--color-royalblue-200);
+}
+
+.div66 {
+  top: 35px;
+  left: 280px;
+  position: absolute;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+
+.rectangle-icon {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 1440px;
+  height: 382px;
+  object-fit: cover;
+}
+
+.p4 {
+  margin: 0;
+}
+
+.div67 {
+  position: absolute;
+  top: 181px;
+  left: 158px;
+  letter-spacing: -0.03em;
+  line-height: 40px;
+  font-weight: 800;
+  color: var(--color-white);
+}
+
+.matchingresultpage-child19 {
+  position: absolute;
+  top: 141px;
+  left: 158px;
+  border-radius: var(--br-8xs);
+  width: 192px;
+  height: 25px;
+}
+
+.b8,
+.div68,
+.div69 {
+  position: absolute;
+  font-size: 14px;
+}
+
+.b8 {
+  top: 145px;
+  left: 165px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  color: var(--color-black);
+  width: 181px;
+}
+
+.div68,
+.div69 {
+  top: 276px;
+  left: 158px;
+  letter-spacing: -0.1em;
+  font-weight: 500;
+  color: var(--color-white);
+}
+
+.div69 {
+  top: 412px;
+  left: 1185px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.03em;
+  color: var(--color-darkgray-200);
+}
+
+.div70,
+.div71 {
+  position: absolute;
+  display: inline-block;
+  color: black;
+}
+
+.userid2{
+  position: absolute;
+  top: 144px;
+  left: 1200px;
+  font-size: 14px;
+  color: #636363;
+}
+.div70,
+.div71 {
+  left: 163px;
+}
+
+.div70 {
+  top: 526px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+  width: 101px;
+  height: 31px;
+}
+
+.div71 {
+  top: 563px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray-200);
+  width: 340px;
+  height: 21px;
+}
+
+.matchingresultpage1 {
+  position: relative;
+  height: auto; /* 높이를 자동으로 조절하도록 설정 */
+  background-color: var(--color-white);
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-inter);
+    margin-top: 500px;
+  }
+/* User profile container */
+.user-profile {
+  display: flex;
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin: 10px 160px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  min-height: 50px;
+}
+/* User profile image */
+.profile-image {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+/* User info container */
+.user-info {
+  flex: 1;
+}
+
+/* User nickname */
+.user-nickname {
+  font-size: 14px;
+  font-weight: 600;
+  margin-right: 50px;
+}
+.user-gender{
+  font-size: 12px;
+}
+
+/* Other user info */
+.user-info p {
+  font-size: 12px;
+  margin: 0;
+}
+
+/* Additional user info */
+.user-info p.additional-info {
+  font-weight: 500;
+}
+
+.user-profiles {
+  margin-top: 650px;
+}
+
+.matchinglist-container{
+  margin-top: 350px;
+  width: 100%;
+  margin-left: 50px;
+  height: 100%;
+  border: 5px solid #ddd; /* Example border style and color */
+  border-radius: 8px;
+}
+
+.user-details {
+  display: flex;
+  flex-direction: row;
+}
+
+.user-details p {
+  margin-right: 20px; /* 각 항목 사이의 간격 조정 */
+  margin-top: 30px;
+}
+
+.seperate {
+  margin: 0;
+  color: rgb(212, 212, 212);
+  font-size: 5px;
+}
+
+.user-details-expanded {
+  display: none;
+  margin: 20px;
+}
+
+/* 확장 버튼을 클릭했을 때 user-details-expanded 클래스 내용 표시 */
+.user-info.expanded .user-details-expanded {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.user-details-expanded p {
+  margin: 30px 0; /* 여기에서 간격 조절, 위 아래 간격을 조절할 수 있음 */
+  font-size: 16px;
+}
+
+.total-similarity {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 텍스트 감싸기 */
+  background-color: rgb(255, 255, 255); /* 배경색 설정 */
+  color: rgb(0, 0, 0); /* 텍스트 색상 설정 */
+  font-weight: bold;
+  border-radius: 8px; /* 둥근 모서리 설정 */
+  padding: 5px 10px; /* 텍스트 주위에 간격을 설정하여 크기와 여백 조정 */
+  font-size: 10px;
+  width: 90px;
+  height: 15px;
+  text-align: center;
+}
+
+.time-similarity {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 텍스트 감싸기 */
+  background-color: rgb(182, 181, 181); /* 배경색 설정 */
+  color: white; /* 텍스트 색상 설정 */
+  font-weight: bold;
+  border-radius: 8px; /* 둥근 모서리 설정 */
+  padding: 5px 10px; /* 텍스트 주위에 간격을 설정하여 크기와 여백 조정 */
+
+  font-size: 13px;
+  margin-left: 30px;
+  width: 75px;
+  height: 15px;
+  text-align: center;
+}
+.type-similarity {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 텍스트 감싸기 */
+  background-color: rgb(182, 181, 181); /* 배경색 설정 */
+  color: white; /* 텍스트 색상 설정 */
+  font-weight: bold;
+  border-radius: 8px; /* 둥근 모서리 설정 */
+  padding: 5px 10px; /* 텍스트 주위에 간격을 설정하여 크기와 여백 조정 */
+
+  font-size: 13px;
+  margin-left: 30px;
+  width: 75px;
+  height: 15px;
+  text-align: center;
+}
+.daysofweek-similarity {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 텍스트 감싸기 */
+  background-color: rgb(182, 181, 181); /* 배경색 설정 */
+  color: white; /* 텍스트 색상 설정 */
+  font-weight: bold;
+  border-radius: 8px; /* 둥근 모서리 설정 */
+  padding: 5px 10px; /* 텍스트 주위에 간격을 설정하여 크기와 여백 조정 */
+
+  font-size: 13px;
+  margin-left: 30px;
+  width: 75px;
+  height: 15px;
+  text-align: center;
+}
+.mbti-similarity {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 텍스트 감싸기 */
+  background-color: rgb(182, 181, 181); /* 배경색 설정 */
+  color: white; /* 텍스트 색상 설정 */
+  font-weight: bold;
+  border-radius: 8px; /* 둥근 모서리 설정 */
+  padding: 5px 10px; /* 텍스트 주위에 간격을 설정하여 크기와 여백 조정 */
+
+  font-size: 13px;
+  margin-left: 30px;
+  width: 75px;
+  height: 15px;
+  text-align: center;
+}
+
+
+
+
+.profile-similarity {
+  display: inline-block; /* 인라인 블록 요소로 설정하여 텍스트 감싸기 */
+  background-color: rgb(136, 109, 255); /* 배경색 설정 */
+  color: rgb(255, 255, 255); /* 텍스트 색상 설정 */
+  font-weight: bold;
+  border-radius: 8px; /* 둥근 모서리 설정 *//* 텍스트 주위에 간격을 설정하여 크기와 여백 조정 */
+  margin-top: 27px;
+  font-size: 10px;
+  width: 80px;
+  height: 15px;
+  padding: 5px 1px;
+  text-align: center;
+}
+
+body, html {
+  height: auto;
+}
+
+.user-profiles {
+  max-height: 800px; /* 원하는 최대 높이로 조정 */
+  margin-bottom: 200px;
+}
+
+.triangle-icon{
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  font-size: 14px;
+  cursor: pointer;
+  /* 모서리를 둥글게 설정 */
+  border-radius: 50%; /* 50%로 설정하면 원 형태로 됩니다. */
+  background-color: #c2c2c2; /* 배경 색상 추가 */
+  color: #fff; /* 텍스트 색상 추가 */
+  display: inline-block;
+  padding: 2px;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+
+
+.type-similarity,
+.time-similarity,
+.daysofweek-similarity,
+.mbti-similarity,
+.profile-similarity {
+  float: right; /* 유사도 정보를 오른쪽으로 이동시킵니다 */
+  margin-right: 30px;
+}
+
+
+.matchinglist-teamtitle{
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+  padding: 5px 5px;
+  font-weight: 100px;
+  margin-bottom: 20px;
+}
+
+.div65,
+.div66 {
+  position: absolute;
+}
+
+.div65 {
+  top: 29px;
+  left: 158px;
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  color: var(--color-royalblue-200);
+}
+
+.div66 {
+  top: 35px;
+  left: 280px;
+  font-size: 15px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: rgb(50, 50, 50);
+}
+
+.rectangle-icon {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  width: 1440px;
+  height: 382px;
+  object-fit: cover;
+}
+.div143 {
+  position: absolute;
+  top: 35px;
+  left: 375px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+.div144 {
+  position: absolute;
+  top: 35px;
+  left: 445px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  font-size: 15px;
+  color: var(--color-dimgray-300);
+}
+.p4 {
+  margin: 0;
+}
+
+.div67 {
+  position: absolute;
+  top: 181px;
+  left: 158px;
+  letter-spacing: -0.03em;
+  line-height: 40px;
+  font-weight: 800;
+  color: var(--color-white);
+}
+
+.matchingresultpage-child19 {
+  position: absolute;
+  top: 141px;
+  left: 158px;
+  border-radius: var(--br-8xs);
+  width: 192px;
+  height: 25px;
+}
+
+
+
+.user-teamprofiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+  max-height: 150px; /* 필요한 높이 설정 (높이가 넘치면 스크롤바 표시) */
+  margin-top: 650px;
+
+}
+
+.profile-teamslot {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin-left: 175px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+
+  width: 1100px; /* 최소 너비 설정 */
+  margin-right: 20px; /* 각 프로필 간 간격 설정 */
+  margin-bottom: 20px; /* 각 프로필 사이 간격 설정 */
+  font-size: 10px;
+}
+
+.profile-teamslot .user-teamprofile {
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  align-items: center;
+  width: 150px; /* 너비를 조정하여 가로 길이를 설정 */
+  height: 290px;
+  margin-right: 7px; /* 각 프로필 간 간격 설정 */
+  /* 각 프로필 사이 간격 설정 */
+  margin-left: 0;
+}
+
+.b8,
+.div68,
+.div69 {
+  position: absolute;
+  font-size: var(--font-size-mini);
+}
+
+.b8 {
+  top: 145px;
+  left: 165px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  color: var(--color-black);
+  width: 181px;
+}
+
+.div68,
+.div69 {
+  top: 276px;
+  left: 158px;
+  letter-spacing: -0.1em;
+  font-weight: 500;
+  color: var(--color-white);
+}
+
+.div69 {
+  top: 412px;
+  left: 1185px;
+  font-size: var(--font-size-lg);
+  letter-spacing: -0.03em;
+  color: var(--color-darkgray-200);
+}
+
+.div70,
+.div71 {
+  position: absolute;
+  display: inline-block;
+  color: #000000;
+}
+
+.matchinglistpage {
+  height: 100%;
+  /* 다른 스타일 */
+}
+
+.user-teamprofile {
+  display: inline-block;
+  flex-direction: row;
+  border: 2px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  width: 200px;
+  font-size: 10px;
+
+}
+
+.user-teamprofile2 {
+    border: 2px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    width: 1250px;
+    font-size: 10px;
+  }
+  
+/* User profile image */
+.profile-teamimage {
+  width: 10px; /* 이미지 너비 조절 */
+  height: 10px; /* 이미지 높이 조절 */
+  object-fit: cover;
+  border-radius: 50%;
+
+}
+
+
+
+/* User info container */
+.user-teaminfo {
+  white-space: nowrap;
+  font-size: 15px;
+  font-weight: bold;
+  
+}
+
+.user-teamprofiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-content: flex-start;
+  max-height: 1000px; /* 필요한 높이 설정 (높이가 넘치면 스크롤바 표시) */
+  margin-top: 650px;
+}
+
+.user-teamprofile {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid #ddd;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  width: 250px; /* 최소 너비 설정 */
+  margin-right: 20px; /* 각 프로필 간 간격 설정 */
+  margin-bottom: 20px; /* 각 프로필 사이 간격 설정 */
+  font-size: 10px;
+  flex-basis: calc(20% - 20px); /* 각 프로필의 너비를 설정, 총 5개가 한 줄에 배치됩니다 */
+  margin-left: 0;
+}
+
+/* 나머지 스타일 유지 */
+
+
+/* User nickname */
+.user-teamnickname {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 25px;
+
+  text-align: center;
+  white-space: nowrap;
+
+}
+.user-teamgender{
+  font-size: 10px;
+  white-space: nowrap;
+  
+}
+
+/* Other user info */
+.user-teaminfo p {
+  font-size: 15px;
+  margin: 0;
+  white-space: nowrap;
+}
+
+/* Additional user info */
+.user-teaminfo p.additional-info {
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+
+.user-teamdetails {
+  display: flex;
+  flex-direction: row;
+}
+
+.user-teamdetails p {
+  margin-right: 20px; /* 각 항목 사이의 간격 조정 */
+  margin-top: 40px;
+}
+
+.seperate {
+  margin: 0;
+  color: rgb(212, 212, 212);
+  font-size: 5px;
+}
+
+.onematching{
+  position: absolute;
+  top: 320px;
+  left: 210px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+  padding: 8px 8px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.onematching:hover{
+  position: absolute;
+  top: 320px;
+  left: 210px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #000000;
+  text-align: center;
+  padding: 8px 8px;
+  background-color: #ffffff;
+  border: 0.5px solid #969696;
+  border-radius: 5pxrgb(255, 255, 255)
+}
+
+.teammatching{
+  position: absolute;
+  top: 320px;
+  left: 350px;
+  text-decoration: none;
+  font-weight: 600px;
+  font-size: 15px;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px 8px;
+  background-color: #5b6dfa;
+  border-radius: 5px;
+}
+
+
+.user-teamdetails strong {
+  margin-right: 5px; /* 원하는 마진 값으로 수정하세요 */
+}
+
+.user-teamprofiles {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: flex-start;
+  width: 500px;
+}
+.matchinglist-teamcontainer{
+  margin-bottom: 200px;
+  width: 1100px;
+  margin-left: 200px;
+  height: 100%;
+  overflow-y: auto;
+  border: 2px solid rgb(231, 231, 231); /* Example border style and color */
+  border-radius: 8px;
+  margin-top: 370px;
+}
+.user-teamprofile {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: flex-start;
+  
+  
+}
+
+.userid3 {
+  position: absolute;
+  top: 140px;
+  left: 1020px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  color: var(--color-dimgray-300);
+  width: 197px;
+  height: 45px;
+}
+
+.logout-button {
+  position: absolute;
+  top: 128px;
+  left: 1180px;
+  cursor: pointer;
+  background-color: #ffb6b1;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  transition-duration: 0.4s;
+}
+
+.logout-button:hover {
+  background-color: #d32f2f;
+}
